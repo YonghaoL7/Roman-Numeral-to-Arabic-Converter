@@ -1,0 +1,1 @@
+This program allows the user to either enter a string of roman numerals and receive the arabic value or the user can open a file containing roman numeral strings and the program will display both the strings of roman numeral and the arabic version in sorted columns
